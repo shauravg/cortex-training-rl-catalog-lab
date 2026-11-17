@@ -1,0 +1,7 @@
+# trl 1.18+ moved the async GRPO rollout worker that the Arctic adapter imports.
+trl==1.17.1
+arctic-platform[cortex]==0.2.0
+datasets
+math-verify
+openai
+snowflake-connector-python
